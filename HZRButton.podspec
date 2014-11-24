@@ -12,7 +12,7 @@ Pod::Spec.new do |s|
   s.version          = "0.1.0"
   s.summary          = "Stylish button with loading indicator."
   s.homepage         = "https://bitbucket.org/hzroot/hzrbutton"
-#s.screenshots      = "https://www.dropbox.com/s/ushfmcd81hfpkip/hzrbutton_demoss.gif"
+  s.screenshots      = "https://raw.githubusercontent.com/erdincakkaya/HZRButton/master/hzrbutton_demoss.gif"
   s.license          = 'MIT'
   s.author           = { "Erdinc Akkaya" => "hz.root@gmail.com" }
   s.source           = { :git => "git@github.com:erdincakkaya/HZRButton.git", :tag => s.version.to_s }
