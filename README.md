@@ -4,6 +4,10 @@
 [![License](https://img.shields.io/cocoapods/l/HZRButton.svg?style=flat)](http://cocoadocs.org/docsets/HZRButton)
 [![Platform](https://img.shields.io/cocoapods/p/HZRButton.svg?style=flat)](http://cocoadocs.org/docsets/HZRButton)
 
+## Demo 
+
+![HZRButton demo](https://raw.githubusercontent.com/erdincakkaya/HZRButton/master/hzrbutton_demoss.gif)
+
 ## Usage
 
 To run the example project, clone the repo, and run `pod install` from the Example directory first.
