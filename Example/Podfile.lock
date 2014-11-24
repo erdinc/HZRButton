@@ -1,0 +1,14 @@
+PODS:
+  - HZRButton (0.1.0)
+
+DEPENDENCIES:
+  - HZRButton (from `../`)
+
+EXTERNAL SOURCES:
+  HZRButton:
+    :path: ../
+
+SPEC CHECKSUMS:
+  HZRButton: 6b86f5cfadd999152a1b58885d007f9f9c0a807d
+
+COCOAPODS: 0.34.4
