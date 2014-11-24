@@ -9,7 +9,7 @@
 
 Pod::Spec.new do |s|
   s.name             = "HZRButton"
-  s.version          = "0.1.0"
+  s.version          = "0.1.1"
   s.summary          = "Stylish button with loading indicator."
   s.homepage         = "https://github.com/erdincakkaya/HZRButton"
   s.license          = 'MIT'
